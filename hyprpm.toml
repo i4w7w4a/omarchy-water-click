@@ -1,0 +1,9 @@
+[repository]
+name = "omarchy-water-click"
+authors = ["i4w7w4a", "jgarza"]
+description = "A short water ripple on left click"
+
+[waterclick]
+description = "One short water refraction ripple on left click"
+output = "build/waterclick.so"
+build = ["make"]
