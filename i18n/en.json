@@ -1,0 +1,10 @@
+{
+  "panel.title": "Water Click",
+  "panel.close": "Close",
+  "panel.profile": "Left click · %1 px · %2 ms",
+  "panel.install": "See README.md for build and loading instructions.",
+  "status.checking": "Checking the Hyprland module…",
+  "status.loaded": "Hyprland module loaded",
+  "status.unloaded": "Hyprland module not loaded",
+  "status.unavailable": "Could not read the Hyprland module status."
+}

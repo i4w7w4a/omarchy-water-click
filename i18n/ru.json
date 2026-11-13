@@ -1,0 +1,10 @@
+{
+  "panel.title": "Water Click",
+  "panel.close": "Закрыть",
+  "panel.profile": "Левая кнопка мыши · %1 пикс. · %2 мс",
+  "panel.install": "Сборка и загрузка описаны в README.ru.md.",
+  "status.checking": "Проверка модуля Hyprland…",
+  "status.loaded": "Модуль Hyprland загружен",
+  "status.unloaded": "Модуль Hyprland не загружен",
+  "status.unavailable": "Не удалось проверить состояние модуля Hyprland."
+}
