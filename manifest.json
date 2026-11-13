@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.i4w7w4a.water-click",
+  "name": "Water Click",
+  "version": "0.1.0",
+  "author": "Re_Pick",
+  "description": "A short water ripple at each left mouse click on your Omarchy desktop. One 80 px wave, 250 ms, with an English and Russian status panel.",
+  "kinds": ["panel"],
+  "entryPoints": {
+    "panel": "Panel.qml"
+  },
+  "license": "MIT"
+}
